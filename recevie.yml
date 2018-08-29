@@ -9,3 +9,5 @@ spring:
   application:
     name: recevie
 
+env:
+ default

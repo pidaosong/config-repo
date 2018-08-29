@@ -12,6 +12,6 @@ spring:
 env:
   test4
 
-gril:
-  age: 18
+girl:
   name: 张三
+  age: 18

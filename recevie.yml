@@ -8,5 +8,4 @@ server:
 spring:
   application:
     name: recevie
-lable:
-  test
+

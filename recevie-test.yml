@@ -10,4 +10,4 @@ spring:
     name: recevie
 
 env:
-  test2
+  test3

@@ -5,9 +5,9 @@ eureka:
 
 #server:
   #port: 9080
-spring:
-  application:
-    name: recevie
+#spring:
+  #application:
+    #name: recevie
 
 env:
   test4

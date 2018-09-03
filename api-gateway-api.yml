@@ -12,4 +12,4 @@ zuul:
 #    - /server/msg
      - /myServer/msg
 #    - /*/msg
-girl: nihao1
+girl: nihao11

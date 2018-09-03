@@ -12,3 +12,4 @@ zuul:
 #    - /server/msg
      - /myServer/msg
 #    - /*/msg
+girl: nihao

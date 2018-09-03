@@ -1,0 +1,14 @@
+zuul:
+  routes:
+    #/myServer/msg -> /server/msg
+    myServer:
+      path: /myServer/**
+      serviceId: server
+      sensitiveHeaders:
+    #server: /myServer/**
+
+    #排除不能访问
+  ignored-patterns:
+#    - /server/msg
+#    - /myServer/msg
+#    - /*/msg

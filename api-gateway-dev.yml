@@ -10,5 +10,5 @@ zuul:
     #排除不能访问
   ignored-patterns:
 #    - /server/msg
-#    - /myServer/msg
+     - /myServer/msg
 #    - /*/msg
